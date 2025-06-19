@@ -1,1 +1,5 @@
 tmp/
+
+*.old
+
+imq/NeuroStartUp.png_backup
