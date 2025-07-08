@@ -1,5 +1,9 @@
-tmp/
+/tmp/
 
-*.old
+*_old
 
-imq/NeuroStartUp.png_backup
+*_backup
+
+Thumbs.db
+
+.DS*Store
